@@ -1,0 +1,74 @@
+{
+  "months_temperature": [
+    {
+      "dag": "1",
+      "storypoints": 80,
+      "storypointsGoal": 80
+    },
+    {
+      "dag": "2",
+      "storypoints": 76,
+      "storypointsGoal": 74
+    },
+    {
+      "dag": "3",
+      "storypoints": 70,
+      "storypointsGoal": 68
+    },
+    {
+      "dag": "4",
+      "storypoints": 60,
+      "storypointsGoal": 62
+    },
+    {
+      "dag": "5",
+      "storypoints": 55,
+      "storypointsGoal": 56
+    },
+    {
+      "dag": "6",
+      "storypoints": 53,
+      "storypointsGoal": 50
+    },
+    {
+      "dag": "7",
+      "storypoints": 44,
+      "storypointsGoal": 44
+    },
+    {
+      "dag": "8",
+      "storypoints": 40,
+      "storypointsGoal": 38
+    },
+    {
+      "dag": "9",
+      "storypoints": 30,
+      "storypointsGoal": 32
+    },
+    {
+      "dag": "10",
+      "storypoints": 27,
+      "storypointsGoal": 26
+    },
+    {
+      "dag": "11",
+      "storypoints": 20,
+      "storypointsGoal": 20
+    },
+    {
+      "dag": "12",
+      "storypoints": 15,
+      "storypointsGoal": 14
+    },
+    {
+      "dag": "13",
+      "storypoints": 11,
+      "storypointsGoal": 8
+    },
+    {
+      "dag": "14",
+      "storypoints": 4,
+      "storypointsGoal": 0
+    }
+  ]
+}

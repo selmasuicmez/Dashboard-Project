@@ -1,0 +1,70 @@
+body{
+	background-color: #171417;
+	padding: 2%
+}
+
+h1{
+	font-family: "GT Eesti Pro Display UltraBold","Arial Black",Arial,sans-serif;
+	color: #fff;
+	letter-spacing: -1.5px;
+	text-transform: uppercase;
+}
+
+h2{
+	font-family: "GT Eesti Pro Display UltraBold","Arial Black",Arial,sans-serif;
+	color: #fff;
+	letter-spacing: -1px;
+	text-transform: uppercase;
+}
+
+h3{
+	font-family: "GT Eesti Pro Display Regular",Arial,sans-serif;
+	color: #fff;
+	letter-spacing: -1px;
+	text-transform: uppercase;
+}
+
+
+p{
+	font-family: "GT Eesti Pro Display Light",Arial,sans-serif;
+	line-heigt: 1.52;
+	color: hsla(0,0%,100%,.85);
+}
+
+.styled-b{
+	border: #372f37 2px solid;
+	border-radius: 5px;
+	background-color: #292429;
+	margin: 1%;
+}
+
+a{
+	color: #fff;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #0099cc;
+	text-decoration: none;
+}
+
+
+/* Icon opmaak hieronder door Anouar */
+
+.fa-circle-check{
+	color: #009933;
+	background-color: #FFF;
+	border: 1px solid #FFF;
+	border-radius: 25px;
+}
+
+.fa-circle-xmark{
+	color: #cc0000;
+	background-color: #FFF;
+	border: 1px solid #FFF;
+	border-radius: 25px;
+}
+
+.fa-link{
+	color: #0099cc;
+}
